@@ -1,0 +1,81 @@
+html {
+    background: linear-gradient(to bottom, #45484d 0%,#000000 100%);
+}
+body {
+    
+}
+header {
+    border-radius: 5px 5px 5px 5px;
+    background: linear-gradient(to bottom, #ffffff 0%,#f1f1f1 50%,#e1e1e1 51%,#f6f6f6 100%);
+    box-shadow: 2px 1px 2px grey;
+    margin-bottom: 10px;
+}
+article img {
+    max-width: 100%;
+    max-height: 100%;
+}
+article {
+    padding-bottom: 2px;
+    border-radius: 5px 5px 5px 5px;
+    background: linear-gradient(to bottom, #ffffff 0%,#f1f1f1 82%,#e1e1e1 82%,#e1e1e1 82%,#f6f6f6 100%);
+    box-shadow: 2px 1px 2px grey;
+}
+section {
+    padding-bottom: 3px;
+    padding-left: 5px;
+    border-radius: 5px 5px 5px 5px;
+    background: linear-gradient(to bottom, #ffffff 0%,#f1f1f1 50%,#e1e1e1 51%,#f6f6f6 100%);
+    box-shadow: 2px 1px 2px grey;
+}
+footer {
+    text-align: 
+    padding-bottom: 3px;
+    padding-left: 5px;
+    border-radius: 5px 5px 5px 5px;
+    font-size: 80%;
+    background: linear-gradient(to bottom, #ffffff 0%,#f1f1f1 70%,#e1e1e1 70%,#e1e1e1 70%,#f6f6f6 100%);
+    box-shadow: 2px 1px 2px grey;
+}
+h1 {
+    font-size: 250%;
+    font-family: 'Poppins', sans-serif;
+    line-height: 50px;
+}
+header i {
+    padding: 5px;
+    font-size: 125%;
+}
+article p {
+    font-size: 90%;
+    padding: 0 10px;
+    word-spacing: 2px;
+    font-family: 'Roboto', sans-serif;
+}
+.river figcaption {
+    text-align: center;
+}
+.kim figcaption{
+    text-align: center;
+}
+h2 {
+    padding: 3px;
+    font-family: 'Oswald', sans-serif;
+}
+section img {
+    border-radius: 3px 3px 3px 3px;
+    margin-right: 20px;
+    margin-bottom: 2px;
+    width: 10em;
+    float: left;
+}
+section i {
+    font-family: 'Raleway', sans-serif;
+}
+ul li{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 80%;
+    padding: 1px 1px 2px 1px;
+    margin: 1em 1em 1em 15em;
+    width: 650px;
+    list-style: none;
+}
